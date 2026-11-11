@@ -1,0 +1,9 @@
+/build*/
+*.so
+*.o
+*.rock
+__pycache__/
+
+# macOS metadata
+.DS_Store
+._*
